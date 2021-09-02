@@ -8,5 +8,6 @@
 </head>
 <body>
 	sample JSP
+	내용추가 입니다
 </body>
 </html>
